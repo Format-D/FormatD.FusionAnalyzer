@@ -1,0 +1,4 @@
+FormatD:
+  FusionAnalyzer:
+    enabled: false
+    triggerComponentName: 'Neos.Neos:Page'
